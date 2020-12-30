@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Nz0BAlx7bMSy+eW56ETJeT0y+l7kQFNx4qWTF+TL4vQCP+9E2TqN3tqyI0D18jZB+Ci0Js4g1VW1Pmic0J1LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan\\Downloads\\zire\\b191210373\\b191210373\\b191210373.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\npgsql\\4.1.4\\npgsql.4.1.4.nupkg.sha512",
+    "C:\\Users\\Furkan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

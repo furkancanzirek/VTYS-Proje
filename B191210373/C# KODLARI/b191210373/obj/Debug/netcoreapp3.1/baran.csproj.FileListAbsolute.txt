@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\baran.exe
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\baran.deps.json
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\baran.runtimeconfig.json
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\baran.runtimeconfig.dev.json
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\baran.dll
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\baran.pdb
+C:\Users\HP\source\repos\baran\baran\obj\Debug\netcoreapp3.1\baran.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\baran\baran\obj\Debug\netcoreapp3.1\baran.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\baran\baran\obj\Debug\netcoreapp3.1\baran.AssemblyInfo.cs
+C:\Users\HP\source\repos\baran\baran\obj\Debug\netcoreapp3.1\baran.dll
+C:\Users\HP\source\repos\baran\baran\obj\Debug\netcoreapp3.1\baran.pdb
+C:\Users\HP\source\repos\baran\baran\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\HP\source\repos\baran\baran\obj\Debug\netcoreapp3.1\baran.csproj.CopyComplete
